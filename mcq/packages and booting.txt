@@ -1,0 +1,13 @@
+1:The process of starting a computer is known as ________ ? booting/booting up
+2:Which is loaded into memory at system startup? Kernal
+3:Which process always has the PID of 1? init
+4:In computing, BIOS is firmware used to provide runtime services for operating systems and programs and to perform hardware initialization during the booting: true
+5:What is the only partition mounted in single-user mode ?: root
+6:What command is used to query for a specific package with RPM? rpm -q
+7:In RHEL 7 and CentOS 7 which of the following is the yum configuration file?
+/etc/yum.conf
+8:If you are the root user, what command would you use to update all software packages :yum update
+9:Which command(s) is/are used to remove an RPM package? rpm -e
+10:What is the only partition mounted in single-user mode ? make
+
+
